@@ -65,7 +65,8 @@ movies = {
     "24": "https://t.me/KINOLARtv07/1342",
     "23": "https://t.me/KINOLARtv07/1341",
     "22": "https://t.me/KINOLARtv07/1340",
-    "21": "https://t.me/KINOLARtv07/1339"
+    "21": "https://t.me/KINOLARtv07/1339",
+    "73": "https://t.me/KINOLARtv07/1407"
 }
 
 # Flask index sahifa
